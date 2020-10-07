@@ -12,7 +12,7 @@ Hi. I am Yedija Yosua, currently Final-Year Undergraduate Physics Student. This 
 
 News
 ======
-+ **day/month/year:** News 1
+
 
 Research Interests
 ======
