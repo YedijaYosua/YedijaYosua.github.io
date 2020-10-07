@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Biography"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a () at [](website), Country, in [Group Name](Website). I did my [last school] in Physics at the University supervised by [Name](Website) and [Name](Website). Before coming to [Univ], I obtained a () degree in (major) from [Uni](website), Indonesia.
+Hi. I am Yedija Yosua, currently Final-Year Undergraduate Physics Student. This is my personal site dedicated to my self-formation and public reader with basic knowledge of physics.
 
 News
 ======
@@ -16,14 +16,4 @@ News
 
 Research Interests
 ======
-My current research is in the []. []. The work is documented on [].
-
-
-Publications
-======
-+ [**Title**](name). [Conference name] ()*, Amsterdam, the Netherlands, August 2016. (). [PDF](website file)
-
-
-Talks
-=====
-+ [**Title**](/talks/radical19). Presented at *[Workshop] (RADICAL 2019) ()*, Amsterdam, The Netherlands, August 2016.
+My main interest is many-body quantum physics. My current research mostly using computational technique as theoretical tools to explain emergence phenomena, currently in the strongly-correlated system.
