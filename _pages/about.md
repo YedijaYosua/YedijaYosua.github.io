@@ -12,6 +12,7 @@ Hi. I am Yedija Yosua, currently Final-Year Undergraduate Physics Student. This 
 
 News
 ======
++ **04/09/19:** The first release of post
  
 
 Research Interests
