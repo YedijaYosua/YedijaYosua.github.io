@@ -18,8 +18,8 @@ Supervisors: ~
 
 + <span>*Bachelor of Science*</span>, Physics<br>
 Universitas Gadjah Mada, Indonesia<br>
-Dissertation: *The role of organic cation on the electronic properties and spin structures of the Hybrid Organic-Inorganic Perovskite: 
-Theoretical and computational studies based on Density Functional Theory *(in Indonesian)<br>
+Dissertation: *The role of organic cation on the electronic properties and spin structures of the Hybrid Organic-Inorganic
+Perovskite: Theoretical and computational studies based on Density Functional Theory *(in Indonesian)<br>
 Supervisors: Mohammad Adhib Ulil Absor
 
 Work experience
